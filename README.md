@@ -27,6 +27,9 @@
 
 ![一日游价格](DuJiangYan_Price.png)
 ![一日游评价](DuJiangYan_Comments.png)
+
+**百度显示的自由行路线和时间消耗**
+
 ![自由行交通消耗](自由行交通消耗.png)
 
 ## 10月6日
